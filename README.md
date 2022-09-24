@@ -1,4 +1,4 @@
-# Spring boot && Java를 활용한 Account(계좌) 시스템 구축
+# Spring boot & Java를 활용한 Account(계좌) 시스템 구축
 
 ## 사용 기술 스택
 - Spring boot 2.7.4(JDK11)
